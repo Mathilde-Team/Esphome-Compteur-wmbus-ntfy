@@ -3,7 +3,7 @@ name = "esphome-compteur-wmbus-ntfy"
 version = "0.1.0"
 description = "Paquet ntfy pour le compteur d'eau ESPHome (wmbus)"
 requires-python = ">=3.13"
-license = "MIT"
+license = "GPL-3.0-or-later"
 
 [dependency-groups]
 # Versions figées (socle) : à monter volontairement.

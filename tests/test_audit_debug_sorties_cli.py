@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Lancement en ligne de commande de ``scripts/audit_debug_sorties.py`` (issue #13).
 
 Les fonctions de l'audit sont testées par ``test_loguru_regles.py`` ; ici,

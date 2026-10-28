@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
 # Configuration ntfy pour Docker Swarm, stockée dans un secret Swarm (contient des empreintes et des jetons).
 #   docker secret create ntfy_server_yml server.yml
 # Empreinte d'un mot de passe : docker run --rm -it binwiederhier/ntfy user hash

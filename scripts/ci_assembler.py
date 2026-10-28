@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Assemble, pour la CI, la configuration du compteur et le paquet ntfy.
 
 Usage : ci_assembler.py <dossier_config_principale> <dossier_sortie> [fichier_config]

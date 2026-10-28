@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
 # Serveur ntfy privé : Docker Compose (un seul hôte)
 # Utilisation : cp .env.example .env ; éditer .env ; docker compose up -d
 # Documentation : ../docs/serveur-ntfy-docker.md

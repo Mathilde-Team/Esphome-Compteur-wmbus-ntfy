@@ -232,6 +232,14 @@ Le dépôt suit le socle qualité de Mathilde-Team :
 
 ## Licence
 
-[MIT](LICENSE) © 2026 Mathilde Deuscher.
+[GNU GPL v3.0 ou ultérieure](LICENSE) (`GPL-3.0-or-later`) © 2026 Mathilde Deuscher. Chaque fichier source porte l'en-tête `SPDX-License-Identifier: GPL-3.0-or-later`.
+
+Les paquets `ntfy.yaml`, `ntfy-voisin.yaml` et `exemples/` ont été écrits pour ce dépôt (aucun code tiers repris). Logiciels utilisés, non redistribués ici :
+
+| Logiciel | Rôle | Licence |
+| --- | --- | --- |
+| [ntfy](https://github.com/binwiederhier/ntfy) (image `binwiederhier/ntfy`) | serveur lancé comme service externe via `docker/` | double licence Apache-2.0 / GPL-2.0 |
+| [ESPHome](https://github.com/esphome/esphome) | compile le paquet | MIT (Python) et GPL-3.0 (C++) |
+| loguru, pytest, pytest-cov | scripts et tests du dépôt | MIT |
 
 

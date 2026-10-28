@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
 # ══════════════════════════════════════════════════════════════════════════════
 #  ntfy.yaml : notifications ntfy envoyées DIRECTEMENT par l'ESP (sans Home Assistant)
 #  Paquet ESPHome à ajouter à compteur-eau-lora.yaml

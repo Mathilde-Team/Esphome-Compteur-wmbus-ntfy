@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Tests de ``scripts/ci_assembler.py`` (issue #13, couverture à 95 %).
 
 Le script lit ``secrets.ntfy.example.yaml``, ``ntfy.yaml`` et

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
 # Serveur ntfy privé : Docker Swarm
 #   docker secret create ntfy_server_yml server.yml       (à partir de server.yml.example)
 #   docker node update --label-add ntfy=true <nœud>        (nœud qui porte les données)
